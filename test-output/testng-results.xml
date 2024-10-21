@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-21T15:26:00 IST" name="Practice Suite" finished-at="2024-10-21T15:28:34 IST" duration-ms="153612">
+    <groups>
+    </groups>
+    <test started-at="2024-10-21T15:26:00 IST" name="Test Basics 1" finished-at="2024-10-21T15:28:34 IST" duration-ms="153612">
+      <class name="com.NaveenOnline.Qa.Testcase.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:00 IST" name="setup" finished-at="2024-10-21T15:26:11 IST" duration-ms="10590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AddressBook()[pri:0, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:11 IST" name="AddressBook" finished-at="2024-10-21T15:26:11 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddressBook -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:11 IST" name="teardown" finished-at="2024-10-21T15:26:11 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:11 IST" name="setup" finished-at="2024-10-21T15:26:15 IST" duration-ms="4095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:1, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:15 IST" name="logintest" finished-at="2024-10-21T15:26:20 IST" duration-ms="4714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:20 IST" name="teardown" finished-at="2024-10-21T15:26:20 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:20 IST" name="setup" finished-at="2024-10-21T15:26:25 IST" duration-ms="4701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitleTest()[pri:2, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:25 IST" name="loginPageTitleTest" finished-at="2024-10-21T15:26:25 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:25 IST" name="teardown" finished-at="2024-10-21T15:26:25 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:25 IST" name="setup" finished-at="2024-10-21T15:26:29 IST" duration-ms="4258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="naveenLogo()[pri:3, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:29 IST" name="naveenLogo" finished-at="2024-10-21T15:26:29 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naveenLogo -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.LoginPageTest@13c10b87]" started-at="2024-10-21T15:26:29 IST" name="teardown" finished-at="2024-10-21T15:26:29 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.NaveenOnline.Qa.Testcase.LoginPageTest -->
+      <class name="com.NaveenOnline.Qa.Testcase.addNewAddressTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:27:35 IST" name="setup" finished-at="2024-10-21T15:27:44 IST" duration-ms="9082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addAddressTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:27:44 IST" name="addAddressTest" data-provider="getTestData" finished-at="2024-10-21T15:27:50 IST" duration-ms="5279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Manohar ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mishra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Indore]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Indore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[453555.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Madhya Pradesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddressTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:27:50 IST" name="teardown" finished-at="2024-10-21T15:27:50 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:27:50 IST" name="setup" finished-at="2024-10-21T15:27:59 IST" duration-ms="9288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addAddressTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:27:59 IST" name="addAddressTest" data-provider="getTestData" finished-at="2024-10-21T15:28:04 IST" duration-ms="4993" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Neha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mishra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bhopal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bhopal]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[453555.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Madhya Pradesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddressTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:28:04 IST" name="teardown" finished-at="2024-10-21T15:28:04 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:28:04 IST" name="setup" finished-at="2024-10-21T15:28:13 IST" duration-ms="9117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addAddressTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:28:13 IST" name="addAddressTest" data-provider="getTestData" finished-at="2024-10-21T15:28:19 IST" duration-ms="5048" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mahesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mishra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Haryana]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Jabalpur]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[453555.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Madhya Pradesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddressTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:28:19 IST" name="teardown" finished-at="2024-10-21T15:28:19 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:28:19 IST" name="setup" finished-at="2024-10-21T15:28:28 IST" duration-ms="9460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addAddressTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:28:28 IST" name="addAddressTest" data-provider="getTestData" finished-at="2024-10-21T15:28:33 IST" duration-ms="5055" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Asha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mishra]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jalandhar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[453555.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Madhya Pradesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddressTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.addNewAddressTest@7a4ccb53]" started-at="2024-10-21T15:28:33 IST" name="teardown" finished-at="2024-10-21T15:28:34 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.NaveenOnline.Qa.Testcase.addNewAddressTest -->
+      <class name="com.NaveenOnline.Qa.Testcase.homePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:26:29 IST" name="setup" finished-at="2024-10-21T15:26:39 IST" duration-ms="9809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePageTitleTest()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:26:39 IST" name="HomePageTitleTest" finished-at="2024-10-21T15:26:39 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:26:39 IST" name="tearDown" finished-at="2024-10-21T15:26:39 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:26:39 IST" name="setup" finished-at="2024-10-21T15:26:50 IST" duration-ms="10089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnMacInDesktopTabTest()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:26:50 IST" name="clickOnMacInDesktopTabTest" finished-at="2024-10-21T15:26:50 IST" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMacInDesktopTabTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:26:50 IST" name="tearDown" finished-at="2024-10-21T15:26:50 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:26:50 IST" name="setup" finished-at="2024-10-21T15:27:00 IST" duration-ms="9408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnMonitorsInComponentTabTest()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:00 IST" name="clickOnMonitorsInComponentTabTest" finished-at="2024-10-21T15:27:01 IST" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMonitorsInComponentTabTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:01 IST" name="tearDown" finished-at="2024-10-21T15:27:01 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:01 IST" name="setup" finished-at="2024-10-21T15:27:10 IST" duration-ms="9575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnShowAllInDesktopTabTest()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:10 IST" name="clickOnShowAllInDesktopTabTest" finished-at="2024-10-21T15:27:11 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnShowAllInDesktopTabTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:11 IST" name="tearDown" finished-at="2024-10-21T15:27:11 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:11 IST" name="setup" finished-at="2024-10-21T15:27:21 IST" duration-ms="9240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnSoftwareTabTest()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:21 IST" name="clickOnSoftwareTabTest" finished-at="2024-10-21T15:27:21 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSoftwareTabTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:21 IST" name="tearDown" finished-at="2024-10-21T15:27:21 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:21 IST" name="setup" finished-at="2024-10-21T15:27:31 IST" duration-ms="9322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnTabletsTabTest()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:31 IST" name="clickOnTabletsTabTest" finished-at="2024-10-21T15:27:31 IST" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnTabletsTabTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.NaveenOnline.Qa.Testcase.homePageTest@33afa13b]" started-at="2024-10-21T15:27:31 IST" name="tearDown" finished-at="2024-10-21T15:27:31 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.NaveenOnline.Qa.Testcase.homePageTest -->
+    </test> <!-- Test Basics 1 -->
+  </suite> <!-- Practice Suite -->
+</testng-results>
